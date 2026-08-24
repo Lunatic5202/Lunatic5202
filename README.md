@@ -52,15 +52,30 @@ I build interfaces that feel alive, explore data until it tells a story, and pro
 
 <p align="center"><sub>SELECT A MISSION TO OPEN THE REPOSITORY</sub></p>
 
-**01 / [MAITRI](https://github.com/Lunatic5202/Maitri)**  [![ACTIVE](https://img.shields.io/badge/ACTIVE-ff4655?style=flat-square&labelColor=071018)]  Real-time audio emotion detection using Python, FastAPI, React, Vite, and NumPy.
+<p>
+<strong>01 / <a href="https://github.com/Lunatic5202/Maitri">MAITRI</a></strong> &nbsp; <img src="https://img.shields.io/badge/ACTIVE-ff4655?style=flat-square&labelColor=071018" alt="ACTIVE" width="72" height="20" /><br />
+<sub>Real-time audio emotion detection using Python, FastAPI, React, Vite, and NumPy.</sub>
+</p>
 
-**02 / [DRISHTI MISSION CONSOLE](https://github.com/Lunatic5202/drishti-mission-cosmos)**  [![ONLINE](https://img.shields.io/badge/ONLINE-2ca9d0?style=flat-square&labelColor=071018)]  ISRO-inspired mission control for photometry, AI classification, model fitting, and MCMC exploration.
+<p>
+<strong>02 / <a href="https://github.com/Lunatic5202/drishti-mission-cosmos">DRISHTI MISSION CONSOLE</a></strong> &nbsp; <img src="https://img.shields.io/badge/ONLINE-2ca9d0?style=flat-square&labelColor=071018" alt="ONLINE" width="72" height="20" /><br />
+<sub>ISRO-inspired mission control for photometry, AI classification, model fitting, and MCMC exploration.</sub>
+</p>
 
-**03 / [JOURNEY TO DISCOVER](https://github.com/Lunatic5202/Journey-To-Discover)**  [![ANALYZED](https://img.shields.io/badge/ANALYZED-2ca9d0?style=flat-square&labelColor=071018)]  India travel analytics built with R, Shiny, and RMarkdown.
+<p>
+<strong>03 / <a href="https://github.com/Lunatic5202/Journey-To-Discover">JOURNEY TO DISCOVER</a></strong> &nbsp; <img src="https://img.shields.io/badge/ANALYZED-2ca9d0?style=flat-square&labelColor=071018" alt="ANALYZED" width="72" height="20" /><br />
+<sub>India travel analytics built with R, Shiny, and RMarkdown.</sub>
+</p>
 
-**04 / [STYLE-IN-STORE](https://github.com/Lunatic5202/style-in-store)**  [![BUILDING](https://img.shields.io/badge/BUILDING-ff4655?style=flat-square&labelColor=071018)]  Component-driven storefront interface built with TypeScript, React, Vite, and Tailwind.
+<p>
+<strong>04 / <a href="https://github.com/Lunatic5202/style-in-store">STYLE-IN-STORE</a></strong> &nbsp; <img src="https://img.shields.io/badge/BUILDING-ff4655?style=flat-square&labelColor=071018" alt="BUILDING" width="72" height="20" /><br />
+<sub>Component-driven storefront interface built with TypeScript, React, Vite, and Tailwind.</sub>
+</p>
 
-**05 / [BT--PROJECTS](https://github.com/Lunatic5202/bt--projects)**  [![DEPLOYED](https://img.shields.io/badge/DEPLOYED-2ca9d0?style=flat-square&labelColor=071018)]  Active workspace for experiments, prototypes, and the next mission.
+<p>
+<strong>05 / <a href="https://github.com/Lunatic5202/bt--projects">BT--PROJECTS</a></strong> &nbsp; <img src="https://img.shields.io/badge/DEPLOYED-2ca9d0?style=flat-square&labelColor=071018" alt="DEPLOYED" width="72" height="20" /><br />
+<sub>Active workspace for experiments, prototypes, and the next mission.</sub>
+</p>
 
 ## TECH LOADOUT
 
