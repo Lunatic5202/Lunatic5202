@@ -8,14 +8,6 @@
 
 <br />
 
-<em>“Wind, show me where to go.”</em><br />
-<sub>— Jett // Round Start</sub>
-
-<br />
-
-<em>“Just let them try to catch me.”</em> &nbsp;·&nbsp; <em>“Race you to the spike sites!”</em><br />
-<sub>— Jett // Round Start</sub><br />
-<sub>Source: <a href="https://vinagaming.com/voice-lines/jett-valorant-voice-lines/">VinaGaming Jett voice lines</a></sub>
 
 </div>
 
@@ -119,7 +111,11 @@ I am exploring ways to make **data-heavy products feel cinematic**, **AI experim
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=1800&pause=900&color=FF4655&center=true&vCenter=true&width=680&lines=SMOKE+DOWN.;WIND+AT+MY+BACK.;SEE+YOU+IN+THE+NEXT+ROUND." alt="Animated closing message" />
+> “Be faster.”
+>
+> “Just let them try to catch me.”
+>
+> “Race you to the spike sites!”
 
 </div>
 
