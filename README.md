@@ -15,9 +15,7 @@
 
 <div align="center">
 
-<img src="./assets/agent-emblem.png" alt="Agent emblem" width="74" />
-&nbsp;&nbsp;&nbsp;
-<img src="./assets/immortal-3-rank.png" alt="Immortal 3 rank icon" width="74" />
+<img src="./assets/immortal-3-rank.png" alt="Immortal 3 rank icon" width="82" />
 
 <p><strong>LUNATIC LAYMAN</strong> &nbsp; // &nbsp; CREATIVE DEVELOPER &nbsp; // &nbsp; DIGITAL WINDKEEPER</p>
 
@@ -32,24 +30,6 @@
 </div>
 
 I build interfaces that feel alive, explore data until it tells a story, and prototype ambitious ideas before they have time to get boring. My work sits at the intersection of **front-end craft, AI/ML experiments, data exploration, and cinematic UI**.
-
-## ACTIVE ABILITIES
-
-<div align="center">
-
-<img src="./assets/ability-updraft.png" alt="Updraft ability icon" width="96" height="96" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/ability-tailwind.png" alt="Tailwind ability icon" width="96" height="96" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/ability-cloudburst.png" alt="Cloudburst ability icon" width="96" height="96" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/ability-bladestorm.png" alt="Blade Storm ability icon" width="96" height="96" />
-
-<br />
-
-<sub><strong>UPDRAFT</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>TAILWIND</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>CLOUDBURST</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>BLADE STORM</strong></sub>
-
-</div>
 
 ## FEATURED MISSIONS
 
@@ -122,13 +102,14 @@ I am exploring ways to make **data-heavy products feel cinematic**, **AI experim
 
 ---
 
-## REFERENCES
+<div align="center">
 
-[1]: https://vinagaming.com/voice-lines/jett-valorant-voice-lines/ "Jett Valorant Voice Lines — VinaGaming"
-[2]: https://wiki.playvalorant.com/en-us/File:Immortal_3_Rank.png "Immortal 3 Rank.png — VALORANT Wiki"
+<img src="./assets/ability-cloudburst.png" alt="Cloudburst ability icon" width="88" height="88" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/ability-updraft.png" alt="Updraft ability icon" width="88" height="88" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/ability-tailwind.png" alt="Tailwind ability icon" width="88" height="88" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/ability-bladestorm.png" alt="Blade Storm ability icon" width="88" height="88" />
 
-<!--
-  Upload README.md and the assets/ folder into Lunatic5202/Lunatic5202.
-  The supplied video is used as assets/jett-hero.gif in its original previous treatment.
-  The four ability PNGs are transparent, equally sized crops from the supplied image.
--->
+</div>
