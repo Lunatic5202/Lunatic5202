@@ -33,33 +33,15 @@ I build interfaces that feel alive, explore data until it tells a story, and pro
 
 ## FEATURED MISSIONS
 
-### [MAITRI](https://github.com/Lunatic5202/Maitri)
+<p align="center"><sub>MISSION QUEUE &nbsp; // &nbsp; 05 TRACKED BUILDS &nbsp; // &nbsp; 04 TECHNOLOGY LANES</sub></p>
 
-Real-time emotion detection from audio with a **FastAPI** backend, **Vite + React** frontend, lightweight NumPy preprocessing, and an audio classification endpoint.
-
-`Python` `FastAPI` `React` `Vite` `NumPy`
-
-### [DRISHTI MISSION CONSOLE](https://github.com/Lunatic5202/drishti-mission-cosmos)
-
-An ISRO-inspired mission-control interface that simulates the path from raw photometry to signal processing, AI classification, model fitting, MCMC exploration, and final verdict.
-
-`TypeScript` `React 19` `TanStack` `Tailwind` `Recharts`
-
-### [JOURNEY TO DISCOVER](https://github.com/Lunatic5202/Journey-To-Discover)
-
-A travel analytics project exploring Google review counts, popularity, ratings, budgets, zones, and hidden-gem destinations across India.
-
-`R` `Shiny` `RMarkdown` `Data Analysis`
-
-### [STYLE-IN-STORE](https://github.com/Lunatic5202/style-in-store)
-
-A modern TypeScript/React storefront interface built around component-driven UI, fast iteration, and a clean visual system.
-
-`TypeScript` `React` `Vite` `shadcn/ui` `Tailwind CSS`
-
-### [BT--PROJECTS](https://github.com/Lunatic5202/bt--projects)
-
-An active workspace for experimenting, building, and shipping the next mission.
+| SLOT | MISSION | SIGNAL | STATUS |
+|:---:|:---|:---|:---:|
+| `01` | [**MAITRI**](https://github.com/Lunatic5202/Maitri)<br><sub>Real-time audio emotion detection</sub> | `PYTHON` · `FASTAPI` · `REACT` | `ACTIVE` |
+| `02` | [**DRISHTI MISSION CONSOLE**](https://github.com/Lunatic5202/drishti-mission-cosmos)<br><sub>ISRO-inspired exoplanet control room</sub> | `TYPESCRIPT` · `TANSTACK` · `RECHARTS` | `ONLINE` |
+| `03` | [**JOURNEY TO DISCOVER**](https://github.com/Lunatic5202/Journey-To-Discover)<br><sub>Travel analytics and hidden-gem discovery</sub> | `R` · `SHINY` · `RMD` | `ANALYZED` |
+| `04` | [**STYLE-IN-STORE**](https://github.com/Lunatic5202/style-in-store)<br><sub>Component-driven storefront interface</sub> | `TYPESCRIPT` · `VITE` · `TAILWIND` | `BUILDING` |
+| `05` | [**BT--PROJECTS**](https://github.com/Lunatic5202/bt--projects)<br><sub>Active workspace for the next mission</sub> | `TYPESCRIPT` · `CSS` · `PYTHON` | `DEPLOYED` |
 
 ## TECH LOADOUT
 
