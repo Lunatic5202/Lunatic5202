@@ -11,7 +11,7 @@
 
 </div>
 
-##
+## LUNATIC5202
 
 <div align="center">
 
@@ -33,15 +33,19 @@ I build interfaces that feel alive, explore data until it tells a story, and pro
 
 ## FEATURED MISSIONS
 
-<p align="center"><sub>MISSION QUEUE &nbsp; // &nbsp; 05 TRACKED BUILDS &nbsp; // &nbsp; 04 TECHNOLOGY LANES</sub></p>
+<div align="center">
 
-| SLOT | MISSION | SIGNAL | STATUS |
-|:---:|:---|:---|:---:|
-| `01` | [**MAITRI**](https://github.com/Lunatic5202/Maitri)<br><sub>Real-time audio emotion detection</sub> | `PYTHON` · `FASTAPI` · `REACT` | `ACTIVE` |
-| `02` | [**DRISHTI MISSION CONSOLE**](https://github.com/Lunatic5202/drishti-mission-cosmos)<br><sub>ISRO-inspired exoplanet control room</sub> | `TYPESCRIPT` · `TANSTACK` · `RECHARTS` | `ONLINE` |
-| `03` | [**JOURNEY TO DISCOVER**](https://github.com/Lunatic5202/Journey-To-Discover)<br><sub>Travel analytics and hidden-gem discovery</sub> | `R` · `SHINY` · `RMD` | `ANALYZED` |
-| `04` | [**STYLE-IN-STORE**](https://github.com/Lunatic5202/style-in-store)<br><sub>Component-driven storefront interface</sub> | `TYPESCRIPT` · `VITE` · `TAILWIND` | `BUILDING` |
-| `05` | [**BT--PROJECTS**](https://github.com/Lunatic5202/bt--projects)<br><sub>Active workspace for the next mission</sub> | `TYPESCRIPT` · `CSS` · `PYTHON` | `DEPLOYED` |
+<img src="./assets/featured-missions.svg" alt="Tracker-inspired Featured Missions board showing five Lunatic5202 projects, their focus, technology signals, and status" width="100%" />
+
+</div>
+
+<p align="center"><sub>
+<a href="https://github.com/Lunatic5202/Maitri">01 MAITRI</a> &nbsp;·&nbsp;
+<a href="https://github.com/Lunatic5202/drishti-mission-cosmos">02 DRISHTI</a> &nbsp;·&nbsp;
+<a href="https://github.com/Lunatic5202/Journey-To-Discover">03 JOURNEY</a> &nbsp;·&nbsp;
+<a href="https://github.com/Lunatic5202/style-in-store">04 STYLE-IN-STORE</a> &nbsp;·&nbsp;
+<a href="https://github.com/Lunatic5202/bt--projects">05 BT--PROJECTS</a>
+</sub></p>
 
 ## TECH LOADOUT
 
