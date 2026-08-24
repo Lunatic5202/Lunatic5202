@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2200&pause=800&color=77EAFF&center=true&vCenter=true&width=720&lines=INITIATING+AGENT+DOSSIER...;LUNATIC5202+%2F+JETT+MAIN;BUILD+FAST.+THINK+SHARP.;NO+FOOTSTEPS.+JUST+IMPACT." alt="Animated Jett profile tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2200&pause=800&color=77EAFF&center=true&vCenter=true&width=720&lines=Think+you+can+keep+up%3F+Who+am+I+kidding%3F+You+know+you+can%27t+keep+up.;Huh%21+Who+are+you+all%3F+The+cleanup+crew%3F;I+got+your+backs.+Just%2C+y%27know%2C+from+the+front.;This+is+fun.+Who+needs+training+dummies+when+you+have+real+dummies%21;Woohoo%2C+bum-bum-bum-bum%21;Oh%2C+my+back+hurts%21+Everyone%27s+so+heavy.+What+would+you+all+do+without+me%3F" alt="Animated Jett quote rotator" />
 
 <br />
 
@@ -88,17 +88,6 @@ An active workspace for experimenting, building, and shipping the next mission.
 ## NEXT ROUND
 
 I am exploring ways to make **data-heavy products feel cinematic**, **AI experiments feel approachable**, and **interfaces feel like places rather than pages**.
-
-<div align="center">
-
-<h3><font color="#56E0FF">“Think you can keep up? Who am I kidding? You know you can't keep up.”</font></h3>
-<h3><font color="#56E0FF">“Huh! Who are you all? The cleanup crew?”</font></h3>
-<h3><font color="#56E0FF">“I got your backs. Just, y'know, from the front.”</font></h3>
-<h3><font color="#56E0FF">“This is fun. Who needs training dummies when you have real dummies!”</font></h3>
-<h3><font color="#56E0FF">“Woohoo, bum-bum-bum-bum!”</font></h3>
-<h3><font color="#56E0FF">“Oh, my back hurts! Everyone's so heavy. What would you all do without me?”</font></h3>
-
-</div>
 
 ---
 
