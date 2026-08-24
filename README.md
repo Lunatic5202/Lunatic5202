@@ -111,7 +111,12 @@ I am exploring ways to make **data-heavy products feel cinematic**, **AI experim
 
 <div align="center">
 
-<img src="./assets/jett-quotes.gif" alt="Animated cyan-blue Jett quote banner" width="100%" />
+<h3><font color="#56E0FF">“Think you can keep up? Who am I kidding? You know you can't keep up.”</font></h3>
+<h3><font color="#56E0FF">“Huh! Who are you all? The cleanup crew?”</font></h3>
+<h3><font color="#56E0FF">“I got your backs. Just, y'know, from the front.”</font></h3>
+<h3><font color="#56E0FF">“This is fun. Who needs training dummies when you have real dummies!”</font></h3>
+<h3><font color="#56E0FF">“Woohoo, bum-bum-bum-bum!”</font></h3>
+<h3><font color="#56E0FF">“Oh, my back hurts! Everyone's so heavy. What would you all do without me?”</font></h3>
 
 </div>
 
@@ -124,6 +129,6 @@ I am exploring ways to make **data-heavy products feel cinematic**, **AI experim
 
 <!--
   Upload README.md and the assets/ folder into Lunatic5202/Lunatic5202.
-  The supplied video is converted to assets/jett-hero.gif for GitHub-compatible looping playback.
+  The supplied video is used as assets/jett-hero.gif in its original previous treatment.
   The four ability PNGs are transparent, equally sized crops from the supplied image.
 -->
