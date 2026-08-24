@@ -140,22 +140,29 @@ CURRENT STATE  Shipping
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lunatic5202&bg_color=071018&color=77eaff&line=ff4655&point=ffffff&area_color=123248&area=true&hide_border=true&custom_title=MISSION%20ACTIVITY" alt="GitHub activity graph" width="100%" />
+<img src="./assets/combat-report.svg" alt="GitHub combat report for Lunatic5202: five public missions, twenty-four contributions in 2026, two followers, and one following" width="100%" />
 
 <br />
 
-<a href="https://github.com/Lunatic5202">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lunatic5202&show_icons=true&hide_border=true&bg_color=071018&title_color=77eaff&text_color=e9fdff&icon_color=ff4655&ring_color=ff4655&include_all_commits=true&custom_title=COMBAT%20REPORT" alt="GitHub combat report" />
-</a>
-<a href="https://github.com/Lunatic5202">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunatic5202&layout=compact&hide_border=true&bg_color=071018&title_color=77eaff&text_color=e9fdff&langs_count=8&custom_title=LANGUAGE%20MIX" alt="Top languages" />
-</a>
+<img src="./assets/language-mix.svg" alt="Top languages for Lunatic5202: TypeScript, HTML, R, and Python" width="100%" />
 
-<br /><br />
+<br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lunatic5202&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub profile trophies" width="100%" />
+<img src="./assets/mission-honors.svg" alt="GitHub profile trophies and mission honors for Lunatic5202" width="100%" />
 
 </div>
+
+## `// JETT COMMS`
+
+> “Wind, show me where to go.”
+>
+> “Just let them try to catch me.”
+>
+> “Race you to the spike sites!”
+>
+> “Be faster.”
+
+<sub>Selected Jett voice lines from <a href="https://vinagaming.com/voice-lines/jett-valorant-voice-lines/">VinaGaming’s Jett Valorant voice-line page</a> <a href="#references">[1]</a>.</sub>
 
 ## `// NEXT ROUND`
 
@@ -167,14 +174,19 @@ I am currently exploring more ways to make **data-heavy products feel cinematic*
 
 <br />
 
-<sub>Profile aesthetic: Jett-inspired. Motion: GIF + animated SVG + timed text. No hover gimmicks.</sub>
-
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071018,55:123248,100:77eaff&height=110&section=footer&animation=fadeIn" alt="Icy blue profile footer" />
+  <img src="./assets/ability-updraft.png" alt="Updraft ability icon" width="110" />
+  <img src="./assets/ability-tailwind.png" alt="Tailwind ability icon" width="110" />
+  <img src="./assets/ability-cloudburst.png" alt="Cloudburst ability icon" width="110" />
+  <img src="./assets/ability-bladestorm.png" alt="Blade Storm ability icon" width="110" />
+</div>
+
+<div align="center">
+  <sub>UPDRAFT &nbsp; // &nbsp; TAILWIND &nbsp; // &nbsp; CLOUDBURST &nbsp; // &nbsp; BLADE STORM</sub>
 </div>
 
 <!--
@@ -182,5 +194,12 @@ I am currently exploring more ways to make **data-heavy products feel cinematic*
   1. Copy README.md and the assets/ folder into the Lunatic5202/Lunatic5202 profile repository.
   2. Keep the relative asset paths unchanged.
   3. The supplied video is converted to assets/jett-hero.gif for GitHub-compatible looping playback.
-  4. The Immortal icon is the actual rank artwork sourced from the VALORANT Wiki, not a custom redraw.
+  4. The Immortal icon is the actual rank artwork sourced from the VALORANT Wiki.
+  5. The lower telemetry panels are local SVGs so they render without third-party widget downtime.
+  6. The four ability icons are cropped from the supplied PNG and placed side by side.
 -->
+
+## `// REFERENCES`
+
+[1]: https://vinagaming.com/voice-lines/jett-valorant-voice-lines/ "Jett Valorant Voice Lines — VinaGaming"
+[2]: https://wiki.playvalorant.com/en-us/File:Immortal_3_Rank.png "Immortal 3 Rank.png — VALORANT Wiki"

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" role="img" aria-labelledby="title desc">
+  <title id="title">Lunatic5202 combat report</title>
+  <desc id="desc">Five public missions, twenty-four contributions in 2026, two followers, one following</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071018"/><stop offset="1" stop-color="#0d2435"/></linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#77eaff"/><stop offset="1" stop-color="#2e91c9"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="2" y="2" width="956" height="246" rx="18" fill="url(#bg)" stroke="#77eaff" stroke-opacity=".35"/>
+  <path d="M24 52H936M24 206H936" stroke="#77eaff" stroke-opacity=".14"/>
+  <text x="28" y="34" fill="#77eaff" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="4">COMBAT REPORT // LUNATIC5202</text>
+  <text x="932" y="34" fill="#ff4655" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2">LIVE PROFILE DATA</text>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <g transform="translate(28 78)"><text fill="#e9fdff" font-size="48" font-weight="700">05</text><text y="31" fill="#9ab7c4" font-size="14" letter-spacing="2">PUBLIC MISSIONS</text><rect y="47" width="188" height="4" fill="url(#cyan)" filter="url(#glow)"/></g>
+    <g transform="translate(264 78)"><text fill="#e9fdff" font-size="48" font-weight="700">24</text><text y="31" fill="#9ab7c4" font-size="14" letter-spacing="2">CONTRIBUTIONS // 2026</text><rect y="47" width="188" height="4" fill="#ff4655" filter="url(#glow)"/></g>
+    <g transform="translate(500 78)"><text fill="#e9fdff" font-size="48" font-weight="700">02</text><text y="31" fill="#9ab7c4" font-size="14" letter-spacing="2">FOLLOWERS</text><rect y="47" width="188" height="4" fill="url(#cyan)" filter="url(#glow)"/></g>
+    <g transform="translate(736 78)"><text fill="#e9fdff" font-size="48" font-weight="700">01</text><text y="31" fill="#9ab7c4" font-size="14" letter-spacing="2">FOLLOWING</text><rect y="47" width="188" height="4" fill="#ff4655" filter="url(#glow)"/></g>
+  </g>
+  <g transform="translate(28 172)" fill="#9ab7c4" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2"><text>STATUS</text><text x="120" fill="#77eaff">ONLINE</text><text x="260">MODE</text><text x="340" fill="#77eaff">BUILD / EXPLORE / SHIP</text><text x="720">SIGNAL</text><text x="814" fill="#ff4655">STRONG</text></g>
+</svg>
