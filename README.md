@@ -35,7 +35,7 @@ I build interfaces that feel alive, explore data until it tells a story, and pro
 
 <div align="center">
 
-<img src="./assets/featured-missions.svg" alt="Tracker-inspired Featured Missions board showing five Lunatic5202 projects, their focus, technology signals, and status" width="100%" />
+<img src="./assets/featured-missions.png" alt="Tracker-inspired Featured Missions board showing five Lunatic5202 projects, their focus, technology signals, and status" width="100%" />
 
 </div>
 
