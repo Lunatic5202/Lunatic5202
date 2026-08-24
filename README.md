@@ -11,7 +11,7 @@
 
 </div>
 
-## LUNATIC5202
+##
 
 <div align="center">
 
