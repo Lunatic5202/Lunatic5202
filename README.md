@@ -111,11 +111,7 @@ I am exploring ways to make **data-heavy products feel cinematic**, **AI experim
 
 <div align="center">
 
-> “Be faster.”
->
-> “Just let them try to catch me.”
->
-> “Race you to the spike sites!”
+<img src="./assets/jett-quotes.gif" alt="Animated cyan-blue Jett quote banner" width="100%" />
 
 </div>
 
