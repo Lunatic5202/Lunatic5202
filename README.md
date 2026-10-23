@@ -124,6 +124,18 @@ I build interfaces that feel alive, turn messy signals into useful decisions, an
 <a href="https://github.com/Lunatic5202">PROFILE</a>
 </div>
 
+## OPERATOR STATS
+
+<div align="center">
+<a href="https://github.com/Lunatic5202?tab=repositories"><img src="https://img.shields.io/github/repos/Lunatic5202?style=for-the-badge&label=PUBLIC%20REPOS&labelColor=071018&color=2ca9d0" alt="Public repositories" /></a>
+<a href="https://github.com/Lunatic5202?tab=followers"><img src="https://img.shields.io/github/followers/Lunatic5202?style=for-the-badge&label=FOLLOWERS&labelColor=071018&color=77eaff" alt="GitHub followers" /></a>
+<a href="https://github.com/Lunatic5202?tab=stars"><img src="https://img.shields.io/github/stars/Lunatic5202?affiliations=OWNER&style=for-the-badge&label=TOTAL%20STARS&labelColor=071018&color=ff4655" alt="Total repository stars" /></a>
+<br />
+<a href="https://github.com/Lunatic5202/Lunatic5202/commits/main"><img src="https://img.shields.io/github/commit-activity/y/Lunatic5202/Lunatic5202?style=flat-square&label=PROFILE%20COMMITS&labelColor=071018&color=2ca9d0" alt="Profile repository commit activity" /></a>
+<a href="https://github.com/Lunatic5202/Lunatic5202/commits/main"><img src="https://img.shields.io/github/last-commit/Lunatic5202/Lunatic5202?style=flat-square&label=LAST%20PROFILE%20UPDATE&labelColor=071018&color=77eaff" alt="Last profile update" /></a>
+<a href="https://github.com/Lunatic5202"><img src="https://img.shields.io/github/created-at/Lunatic5202?style=flat-square&label=OPERATOR%20ONLINE%20SINCE&labelColor=071018&color=2ca9d0" alt="GitHub account creation date" /></a>
+</div>
+
 ## NEXT ROUND
 
 I am exploring ways to make **clinical signals easier to act on**, **computer vision more practical**, **data-heavy products feel cinematic**, and **interfaces feel like places rather than pages**.
