@@ -115,7 +115,7 @@ I build interfaces that feel alive, turn messy signals into useful decisions, an
 ## COMBAT TELEMETRY
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lunatic5202&bg_color=071018&color=77eaff&line=ff4655&point=ffffff&area_color=123248&area=true&hide_border=true&custom_title=MISSION%20ACTIVITY" alt="GitHub mission activity graph for Lunatic5202" width="100%" />
+<a href="https://github.com/Lunatic5202?tab=overview"><img src="./assets/github-activity.svg" alt="GitHub contribution activity snapshot for Lunatic5202" width="100%" /></a>
 <br />
 <a href="https://github.com/Lunatic5202?tab=repositories">REPOSITORIES</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
