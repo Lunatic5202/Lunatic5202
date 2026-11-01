@@ -19,7 +19,7 @@
 <p><strong>LUNATIC LAYMAN</strong> &nbsp; // &nbsp; CREATIVE DEVELOPER &nbsp; // &nbsp; DIGITAL WINDKEEPER</p>
 
 <p>
-  <a href="https://github.com/Lunatic5202?tab=repositories">10 PUBLIC MISSIONS</a>
+  <a href="https://github.com/Lunatic5202?tab=repositories">14 PUBLIC REPOSITORIES</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Lunatic5202">IMMORTAL LOADOUT</a>
   &nbsp;·&nbsp;
